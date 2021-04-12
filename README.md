@@ -7,3 +7,5 @@ As stated above, the main purpose is to provide simple examples fot Git training
 ##Deployment
 This is a simple web projects, deployment can be on any web server or even local file system.
 ##How to contribute
+
+2014 Git.Training
