@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jem Dianne Comia> -- <jemdiannecomia9@gmail.com> -- <jemdianne>
 
 # THANKS
 
